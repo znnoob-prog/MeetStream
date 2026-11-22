@@ -1,0 +1,6 @@
+{
+  "name": "Meet Studio",
+  "description": "An improved Google Meet workspace with a hardware green room, pre-flight room policy controls, live space inspector, and searchable conference transcript archive.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
